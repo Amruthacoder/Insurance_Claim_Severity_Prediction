@@ -5,8 +5,6 @@
 
 ![Description of Image](Data/app_ui.jpeg)
 
-### ‼️ This project is an assessment case study for GoDigit, focusing on predicting insurance claim severity using machine learning. The dataset used in this analysis is hypothetical and sourced from publicly available datasets for educational and research purposes. All logos and brand names belong to their respective owners, and this project does not represent any real-world company.
-
 
 ## 📌 Overview
 
